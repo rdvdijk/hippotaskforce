@@ -1,2 +1,2 @@
-require './hippo_taskforce'
+require './hippotaskforce'
 run Sinatra::Application
